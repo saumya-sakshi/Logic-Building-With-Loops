@@ -1,3 +1,4 @@
+package whileLoop;
 import java.util.*;
 
 public class LoopProblems {
